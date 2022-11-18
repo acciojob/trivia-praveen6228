@@ -6,4 +6,7 @@ blockquote {
   background-color: #f8fffe;
   font-weight: bold;
 }
+body ul {
+  list-style: none;
+}
 /* Your CSS Code here. */
