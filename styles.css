@@ -5,8 +5,16 @@ blockquote {
   border-left: 8px solid green;
   background-color: #f8fffe;
   font-weight: bold;
+  align-items: flex-start;
+  padding-left: 45px;
 }
-body ul {
+body li {
   list-style: none;
+}
+h1 {
+  padding-left: 650px;
+}
+body {
+  margin-left: 20px;
 }
 /* Your CSS Code here. */
